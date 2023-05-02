@@ -16,10 +16,10 @@ Several examples of using Swarm Learning are provided with the package.
 
 For details of running each example, see the below:
 
--   [MNIST](/examples/mnist/MNIST.md)
--   [MNIST-PYT](/examples/mnist-pyt/MNIST-PYT.md)
--   [CIFAR-10](/examples/cifar10/CIFAR-10.md)
--   [Credit card fraud detection](/examples/fraud-detection/Credit_card_fraud_detection.md)
+-   [MNIST](/examples/mnist/README.md)
+-   [MNIST-PYT](/examples/mnist-pyt/README.md)
+-   [CIFAR-10](/examples/cifar10/README.md)
+-   [Credit card fraud detection](/examples/fraud-detection/README.md)
 -   [Reverse Proxy based examples](/examples/reverse-proxy/README.md)
 
 They use different models, data, ML platforms, and Swarm cluster configurations. All examples require valid X.509 certificates to be used by different Swarm Learning components. A certificate generation utility (`gen-cert`) is provided to enable users to run the examples quickly.
